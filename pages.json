@@ -1,0 +1,98 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "Anon酱",
+        "navigationBarBackgroundColor": "#ffffff",
+        "navigationBarTextStyle": "black"
+      }
+    },
+    {
+      "path": "pages/recipe/recipe",
+      "style": {
+        "navigationBarTitleText": "当日饮食记录",
+        "navigationBarBackgroundColor": "#ffffff"
+      }
+    },
+    {
+      "path": "pages/workout/workout",
+      "style": {
+        "navigationBarTitleText": "当日健身安排",
+        "navigationBarBackgroundColor": "#ffffff"
+      }
+    },
+    {
+      "path": "pages/training/training",
+      "style": {
+        "navigationBarTitleText": "开始训练",
+        "navigationBarBackgroundColor": "#ffffff"
+      }
+    },
+    {
+      "path": "pages/workoutDetail/workoutDetail",
+      "style": {
+        "navigationBarTitleText": "动作详情",
+        "navigationBarBackgroundColor": "#ffffff"
+      }
+    },
+	{
+	  "path": "pages/recipeAnalyze/recipeAnalyze",
+	  "style": {
+		"navigationBarTitleText": "预测分析",
+		"navigationBarBackgroundColor": "#ffffff"
+	  }
+	},
+    {
+      "path": "pages/weight/weight",
+      "style": {
+        "navigationBarTitleText": "体重管理",
+        "navigationBarBackgroundColor": "#ffffff"
+      }
+    },
+    {
+      "path": "pages/settings/settings",
+      "style": {
+        "navigationBarTitleText": "Anon酱",
+        "navigationBarBackgroundColor": "#ffffff"
+      }
+    },
+    {
+      "path": "pages/planManage/planManage",
+      "style": {
+        "navigationBarTitleText": "训练计划管理",
+        "navigationBarBackgroundColor": "#ffffff"
+      }
+    },
+    {
+      "path": "pages/planEdit/planEdit",
+      "style": {
+        "navigationBarTitleText": "训练计划详情",
+        "navigationBarBackgroundColor": "#ffffff"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "FitEat Tracker",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#999999",
+    "selectedColor": "#333",
+    "backgroundColor": "#ffffff",
+	"font-size": "38rpx",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/settings/settings",
+        "text": "设置"
+      }
+    ]
+  }
+}
