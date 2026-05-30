@@ -16,9 +16,9 @@
 - 本项目以个人使用设备机型为基础开发，未作屏幕适配，也未进行各种环境唐化操作兼容测试。
 - 开发缘由是市面上找的APP要么收费，要么有广告，要么功能没涵盖自身需求，遂搓了一个，共享出来。
 - 效果图可能与你实际看到的不一致，根据机型调整代码即可
-![效果图](demoimg/Screenshot_1.png)
-![效果图](demoimg/Screenshot_2.png)
-![效果图](demoimg/Screenshot_3.png)
+![效果图](demoimg/Screenshot_1.jpg)
+![效果图](demoimg/Screenshot_2.jpg)
+![效果图](demoimg/Screenshot_3.jpg)
 
 ## 版权声明
 
